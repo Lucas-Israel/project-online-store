@@ -1,3 +1,8 @@
+# :toolbox: Tecnologias usadas:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 # :busts_in_silhouette: Projeto desenvolvido em conjunto com:
   
 #### [Guyddo](https://github.com/guyddogl), [Luis Rowe](https://github.com/LuisRowe) e [Miguel Vieira](https://github.com/mjggel)
